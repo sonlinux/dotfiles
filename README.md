@@ -18,9 +18,6 @@ Featuring custom configurations for some of the following projects:
 * lightdm
 
 
-## Current setup screenshot
-![Screenshot](https://i.imgur.com/joY8jVy.png)
-
 ## Installation
   * Install Arch Linux or a headless install of Debian, Ubuntu, Fedora, OpenSuse, or even FreeBSD
 
