@@ -1,0 +1,18 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* FF 57 tweaks */
+
+/* Hide the top tab bar */
+#TabsToolbar {
+    visibility: collapse !important;
+}
+
+#sidebar-header {
+    height: 40px;
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+#sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] #sidebar-header {
+  display: none;
+}
