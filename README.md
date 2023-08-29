@@ -1,4 +1,4 @@
-# MrComputer (Alison Mukoma)'s - dotfiles
+# Alison's - dotfiles
 
 My dotfiles for a great tiling window manger experience on Arch Linux with i3wm. Install your preferred distro and this as a base and throw your tools/packages on top. 
 Note: There are many things here specific to my setup, tweak as needed.
